@@ -1,0 +1,2 @@
+# ImageCompressNet-Deep-Learning-Based-Image-Compression-using-Encoder-Decoder-Architecture
+he project "DeepLung: Automated Chest CT Scan Analysis for Pulmonary Diseases" utilizes an encoder-decoder architecture for image compression and reconstruction. The autoencoder model compresses chest CT scan images into a lower-dimensional representation and then reconstructs them back to their original form. 
